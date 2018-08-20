@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
-  "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "name": "cs-361-fall-2018-website",
+  "description": "OSU CS 361 Fall 2018 Class Website",
+  "version": "0.0.1",
+  "author": "Caius Brindescu <brindesc@oregonstate.edu>",
   "dependencies": {
     "gatsby": "^1.9.277",
     "gatsby-link": "^1.6.46",
@@ -11,7 +11,7 @@
     "react-helmet": "^5.2.0"
   },
   "keywords": [
-    "gatsby"
+    "cs", "361", "oregon state", "software engineering"
   ],
   "license": "MIT",
   "scripts": {
