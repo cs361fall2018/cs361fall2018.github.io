@@ -10,5 +10,13 @@ module.exports = {
         pathToConfigModule: `src/utils/typography.js`,
       }
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/src/pages`,
+        name: "markdown-pages",
+      },
+    },
+    `gatsby-transformer-remark`,
   ],
 }
