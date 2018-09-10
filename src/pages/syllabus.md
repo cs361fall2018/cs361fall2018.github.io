@@ -37,7 +37,7 @@ Model system requirements using one or more semi-formal notations such as UML, d
 - There will be two 120 minute classes per week. In addition, you should expect to spend 8 additional hours per week on reading, study, and projects.
 - We will use Slack to discuss questions/problems. Email only when you have personal or grade related questions. If you email questions about the assignments, we will not answer them.
 - You are expected to regularly check your email and the Slack `#announcements` channel so not to miss important announcements.
-- You are expected to be prepared for class, participate in discussions, and ask and answer questions.
+- You are expected to be prepared for class, participate in discussions, ask and answer questions.
 - We will cover some material in class that is not covered in the text; your assignments and test questions may be based on that material. In particular, many of the details necessary to complete assignments will be presented in class. Thus, it is to your benefit to attend class. Because late arrivals are distracting, we also ask that you arrive to class on time.
 
 
@@ -45,8 +45,8 @@ Model system requirements using one or more semi-formal notations such as UML, d
 
 | Item | Percentage | Description |
 |---|---|---|
-| Project | 65% | Teams (~4 students per group) will implement a software project throughout the term. There will be 4 stages submitted by the teams throughout the term. |
-| Class participation | 10% | During the class, we will ask participation questions. We will also have several in-class interviews of people in different sectors of th e software industry throughout the term; you will be expected to submit at least one question for them prior to the interview. We will also have several in class activities during the term. |
+| Project | 60% | Teams (~4 students per group) will implement a software project throughout the term. There will be 4 stages submitted by the teams throughout the term. |
+| Class participation | 10% | During the class, we will ask participation questions. We will also have several in-class interviews of people in different sectors of the software industry throughout the term; you will be expected to submit at least one question for them prior to the interview. We will also have several in class activities during the term. |
 | Final Exam | 30% | A comprehensive final exam will be given during the allocated final exam time slot. |
 
 ## Final Letter Grading Scheme
