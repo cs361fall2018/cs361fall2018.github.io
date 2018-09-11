@@ -6,7 +6,7 @@ title: "Schedule"
 **Note:** This schedule is tentative.
 Plese check this page weekly, as it is likely to change.
 
-| Week | Readings | Due |
+| Week | Lecture | Readings | Due |
 |---|---|---|---|---|
 | 0 | T: Intro to Software Engineering                   |   |              |
 | 1 | T: Collaboration and TDD <br> R: GitHub Workflow   |   | F: Sprint 0 & Teams  |
