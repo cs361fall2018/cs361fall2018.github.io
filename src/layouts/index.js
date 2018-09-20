@@ -21,7 +21,8 @@ const Layout = ({ children, data }) => (
       <div className="nav">
         <Link to="/schedule">Schedule</Link>
         <Link to="/syllabus">Syllabus</Link>
-        <Link href="/assignments">Assignments</Link>
+        <Link to="/assignments">Assignments</Link>
+        <Link to="/positive-community">Establishing a <br />positive community</Link>
       </div>
       <div className="main">
         {children()}
