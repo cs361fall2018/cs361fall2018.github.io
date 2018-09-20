@@ -8,15 +8,15 @@ Plese check this page weekly, as it is likely to change.
 
 | Week | Lecture | Readings | Due |
 |---|---|---|---|---|
-| 0 | T: Intro to Software Engineering                   |   |              |
-| 1 | T: Collaboration and TDD <br> R: GitHub Workflow   |   | F: Sprint 0 & Teams  |
-| 2 | T: User Stories <br> R: Java                       |   |              |
-| 3 | T: OO <br> R: Software Testing                     |   | F: Sprint 1  |
-| 4 | T: UI design <br> R: Paper Prototypes              |   |              |
-| 5 | T: Code review <br> Code smells & Refactoring      |   | F: Sprint 2  |
-| 6 | T: Design patterns <br> R: Software architecture   |   |              |
-| 7 | T: TBA <br> R: TBA                                 |   | F: Sprint 3  |
-| 8 | T & R: UML Diagrams                                |   |              |
-| 9 | T: SLDC <br> R: No class (Thankgiving)             |   | F: Sprint 4  | 
-| 10| T: Code Quality <br> R: TBA                        |   |              |
-| Finals week |                                          |   |              |
+| 0 | T: Intro to Software Engineering                   |    |              |
+| 1 | T: Collaboration and TDD <br> R: User Stories and TDD   | [GitHub Workflow](https://guides.github.com/introduction/flow/)<br> [Intro to TDD](https://youtu.be/zwtg7lIMUaQ?t=1s) | F: [Sprint 0](https://oregonstate.instructure.com/courses/1692915/assignments/7343709) & Teams  |
+| 2 | T: Java <br> R: OO                                 |    |              |
+| 3 | T: Software Testing <br> R: UI Design              |    | F: Sprint 1  |
+| 4 | T: Paper Prototypes <br> R: Code review            |    |              |
+| 5 | T: Code smells & Refactoring<br>R: Design patterns |    | F: Sprint 2  |
+| 6 | T: Design patterns 2 <br> R: Software architecture |    |              |
+| 7 | T: TBA <br> R: TBA                                 |    | F: Sprint 3  |
+| 8 | T & R: UML Diagrams                                |    |              |
+| 9 | T: SLDC <br> R: No class (Thankgiving)             |    | F: Sprint 4  | 
+| 10| T: Code Quality <br> R: TBA                        |    |              |
+| Finals week |                                          |    |              |
