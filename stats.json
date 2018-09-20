@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---assignments": [
-      "path---assignments-2e4c00a5f4659c00df4a.js",
-      "path---assignments-2e4c00a5f4659c00df4a.js.map"
+      "path---assignments-950cb83c9e6d27a12603.js",
+      "path---assignments-950cb83c9e6d27a12603.js.map"
     ],
     "path---": [
       "path----5a70ff74186e88a044b4.js",
@@ -20,9 +20,13 @@
       "component---src-layouts-index-js-36afe4be01f03625d40a.js",
       "component---src-layouts-index-js-36afe4be01f03625d40a.js.map"
     ],
+    "path---assignments-sprint-0": [
+      "path---assignments-sprint-0-ec066e8977fda47e99d2.js",
+      "path---assignments-sprint-0-ec066e8977fda47e99d2.js.map"
+    ],
     "path---syllabus": [
-      "path---syllabus-385b4f182785225bcb0c.js",
-      "path---syllabus-385b4f182785225bcb0c.js.map"
+      "path---syllabus-efc34b5b30739cbb07ab.js",
+      "path---syllabus-efc34b5b30739cbb07ab.js.map"
     ],
     "path---index": [
       "path---index-f867b7759bc64834769d.js",
@@ -41,14 +45,14 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-228d1c5b8e8954b98574.js",
+      "app-e2685b1487d7a3ffce72.js",
       "build-js-styles.css",
-      "app-228d1c5b8e8954b98574.js.map",
+      "app-e2685b1487d7a3ffce72.js.map",
       "build-js-styles.css.map"
     ],
     "path---schedule": [
-      "path---schedule-4c0e0fbbff061e37b0c5.js",
-      "path---schedule-4c0e0fbbff061e37b0c5.js.map"
+      "path---schedule-cca292f93825cc97ac10.js",
+      "path---schedule-cca292f93825cc97ac10.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
