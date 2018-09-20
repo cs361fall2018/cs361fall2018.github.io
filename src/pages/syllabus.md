@@ -13,7 +13,17 @@ Contact: [Email](mailto:brindesc@oregonstate.edu)
 
 ###Teaching assistants
 
-TBA
+Ke-Jo Hsieh<br />
+Office Hours: TBA
+Contact: [Email](mailto:hsiehke@oregonstate.edu)
+
+Alexandria LeClerc
+Office Hours: TBA
+Contact: [Email](mailto:leclerca@oregonstate.edu)
+
+Manideepa Saginatham
+Office Hours: TBA
+Contact [Email](mailto:saginatm@oregonstate.edu)
 
 ## Topics Covered
 Introduction to Software Engineering, Software Development Processes, Requirements Elicitation, Software Design and Architecture, Configuration Management and Project Management, Software Specifications and Testing, Ethics in Software Development.
@@ -35,7 +45,7 @@ Model system requirements using one or more semi-formal notations such as UML, d
 ## Class expectations
 
 - There will be two 120 minute classes per week. In addition, you should expect to spend 8 additional hours per week on reading, study, and projects.
-- We will use Slack to discuss questions/problems. Email only when you have personal or grade related questions. If you email questions about the assignments, we will not answer them.
+- We will use Slack to discuss questions/problems. Email only when you have personal or grade related questions. If you email questions about the assignments, we will not answer them. You can find the signup link in the [Canvas Syllabus page.](https://oregonstate.instructure.com/courses/1692915/assignments/syllabus)
 - You are expected to regularly check your email and the Slack `#announcements` channel so not to miss important announcements.
 - You are expected to be prepared for class, participate in discussions, ask and answer questions.
 - We will cover some material in class that is not covered in the text; your assignments and test questions may be based on that material. In particular, many of the details necessary to complete assignments will be presented in class. Thus, it is to your benefit to attend class. Because late arrivals are distracting, we also ask that you arrive to class on time.
@@ -75,7 +85,7 @@ Each group will be allowed 2 late days on the Project assignments only.
 These days can be used separately or in a single block. 
 All group members must agree to use the late days and notify the professor/TAs *prior* to the original due date. 
 The late days are atomic (you cannot split them further).
-I all other casses, late assignments will not be accepted.
+In all other casses, late assignments will not be accepted.
 
 ## Gadget Policy
 
