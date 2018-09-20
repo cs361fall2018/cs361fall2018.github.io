@@ -1,6 +1,6 @@
 ---
 path: "/syllabus"
-title: "CS 361"
+title: "Syllabus"
 ---
 
 ## Teaching staff
