@@ -1,5 +1,9 @@
 {
   "assetsByChunkName": {
+    "path---assignments": [
+      "path---assignments-2e4c00a5f4659c00df4a.js",
+      "path---assignments-2e4c00a5f4659c00df4a.js.map"
+    ],
     "path---": [
       "path----5a70ff74186e88a044b4.js",
       "path----5a70ff74186e88a044b4.js.map"
@@ -37,14 +41,14 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-55c3010723c843922383.js",
+      "app-228d1c5b8e8954b98574.js",
       "build-js-styles.css",
-      "app-55c3010723c843922383.js.map",
+      "app-228d1c5b8e8954b98574.js.map",
       "build-js-styles.css.map"
     ],
     "path---schedule": [
-      "path---schedule-8facbb7474d4194c4b43.js",
-      "path---schedule-8facbb7474d4194c4b43.js.map"
+      "path---schedule-4c0e0fbbff061e37b0c5.js",
+      "path---schedule-4c0e0fbbff061e37b0c5.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
