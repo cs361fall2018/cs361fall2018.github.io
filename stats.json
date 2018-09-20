@@ -4,21 +4,25 @@
       "path----5a70ff74186e88a044b4.js",
       "path----5a70ff74186e88a044b4.js.map"
     ],
+    "path---positive-community": [
+      "path---positive-community-c8eaa26ebc22fb49e84c.js",
+      "path---positive-community-c8eaa26ebc22fb49e84c.js.map"
+    ],
     "component---src-templates-page-js": [
       "component---src-templates-page-js-5cc9e133eda57417bb1d.js",
       "component---src-templates-page-js-5cc9e133eda57417bb1d.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-71e2de19f8563dcda2f0.js",
-      "component---src-layouts-index-js-71e2de19f8563dcda2f0.js.map"
+      "component---src-layouts-index-js-36afe4be01f03625d40a.js",
+      "component---src-layouts-index-js-36afe4be01f03625d40a.js.map"
     ],
     "path---syllabus": [
       "path---syllabus-385b4f182785225bcb0c.js",
       "path---syllabus-385b4f182785225bcb0c.js.map"
     ],
     "path---index": [
-      "path---index-07bc6e18c7c5f7221847.js",
-      "path---index-07bc6e18c7c5f7221847.js.map"
+      "path---index-f867b7759bc64834769d.js",
+      "path---index-f867b7759bc64834769d.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-f6662393a31fb18d5e07.js",
@@ -33,9 +37,9 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-1fdef817c632a7343a0c.js",
+      "app-55c3010723c843922383.js",
       "build-js-styles.css",
-      "app-1fdef817c632a7343a0c.js.map",
+      "app-55c3010723c843922383.js.map",
       "build-js-styles.css.map"
     ],
     "path---schedule": [
