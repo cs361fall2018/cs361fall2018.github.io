@@ -14,15 +14,15 @@ Contact: [Email](mailto:brindesc@oregonstate.edu)
 ###Teaching assistants
 
 Ke-Jo Hsieh<br />
-Office Hours: TBA
+Office Hours: TBA<br />
 Contact: [Email](mailto:hsiehke@oregonstate.edu)
 
-Alexandria LeClerc
-Office Hours: TBA
+Alexandria LeClerc<br />
+Office Hours: TBA<br />
 Contact: [Email](mailto:leclerca@oregonstate.edu)
 
-Manideepa Saginatham
-Office Hours: TBA
+Manideepa Saginatham<br />
+Office Hours: TBA<br />
 Contact [Email](mailto:saginatm@oregonstate.edu)
 
 ## Topics Covered
@@ -67,7 +67,7 @@ The final letter grades will be assigned using the scheme below:
 | A      | 93-100% |
 | A-     | 90-92%  |
 | B+     | 87-89%  | 
-| B      | 83:86%  | 
+| B      | 83-86%  | 
 | B-     | 80-82%  |
 | C+     | 77-79%  |
 | C:     | 73-76%  |
