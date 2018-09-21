@@ -8,21 +8,21 @@ title: "Syllabus"
 ### Instructor 
 
 Caius Brindescu<br />
-Office hours: TBA<br />
+Office hours: Thursday, 3-4 PM, Kelley Attrium<br />
 Contact: [Email](mailto:brindesc@oregonstate.edu)
 
 ###Teaching assistants
 
 Ke-Jo Hsieh<br />
-Office Hours: TBA<br />
+Office Hours: Tuesday, 3-4 PM, Kelley Attrium<br />
 Contact: [Email](mailto:hsiehke@oregonstate.edu)
 
 Alexandria LeClerc<br />
-Office Hours: TBA<br />
+Office Hours: Tuesday, 2-3 PM, Dearborn 119B<br />
 Contact: [Email](mailto:leclerca@oregonstate.edu)
 
 Manideepa Saginatham<br />
-Office Hours: TBA<br />
+Office Hours: Wednesday, 10-11 AM, Kelley Atrium<br />
 Contact [Email](mailto:saginatm@oregonstate.edu)
 
 ## Goal
