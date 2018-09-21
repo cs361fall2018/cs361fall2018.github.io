@@ -1,0 +1,17 @@
+language: node_js
+
+node_js:
+  - 10
+
+branches:
+  only:
+    - sources
+
+before_script:
+  - npm install
+
+script:
+  - gatsby build
+
+after_success:
+  if [[$TRAVIS_BRANCH == "sources"]]; then npm run deploy
