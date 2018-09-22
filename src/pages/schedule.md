@@ -10,7 +10,7 @@ Plese check this page weekly, as it is likely to change.
 |---|---|---|---|---|
 | 0 | T: [Intro to Software Engineering](/slides/1-intro.pdf) |    |              |
 | 1 | T: Collaboration and TDD <br> R: User Stories and TDD   | [GitHub Workflow](https://guides.github.com/introduction/flow/)<br> [Intro to TDD](https://youtu.be/zwtg7lIMUaQ?t=1s) | F: [Sprint 0](/assignments/sprint0) & [Teams](/assignments/teams)  |
-| 2 | T: Java <br> R: OO                                 |    |              |
+| 2 | T: Java <br> R: OO Design                          | [Java intro](https://www.cs.cornell.edu/courses/cs409/2000SP/Java/java-notes.html)   |              |
 | 3 | T: Software Testing <br> R: UI Design              |    | F: Sprint 1  |
 | 4 | T: Paper Prototypes <br> R: Code review            |    |              |
 | 5 | T: Code smells & Refactoring<br>R: Design patterns |    | F: Sprint 2  |
