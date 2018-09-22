@@ -23,7 +23,7 @@ Contact: [Email](mailto:leclerca@oregonstate.edu)
 
 Manideepa Saginatham<br />
 Office Hours: Wednesday, 10-11 AM, Kelley Atrium<br />
-Contact [Email](mailto:saginatm@oregonstate.edu)
+Contact: [Email](mailto:saginatm@oregonstate.edu)
 
 ## Goal
 
