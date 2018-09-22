@@ -23,6 +23,7 @@ const Layout = ({ children, data }) => (
         <Link to="/syllabus">Syllabus</Link>
         <Link to="/assignments">Assignments</Link>
         <Link to="/positive-community">Establishing a <br />positive community</Link>
+        <Link to="/resources">Resources</Link>
       </div>
       <div className="main">
         {children()}
