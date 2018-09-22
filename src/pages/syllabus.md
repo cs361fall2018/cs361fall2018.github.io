@@ -77,13 +77,14 @@ Final scores will be rounded the nearest integer.
 
 Each group will be allowed 2 late days on the Project assignments only. 
 These days can be used separately or in a single block. 
+Each day gives you 24 extra hours (e.g. if the original deadline is Friday at 5PM, using a day will push it back to Saturday at 5PM).
 All group members must agree to use the late days and notify the professor/TAs *prior* to the original due date. 
 The late days are atomic (you cannot split them further).
 In all other cases, late assignments will not be accepted.
 
 ## Gadget Policy
 
-No cell phones, iPods, or similar mobile device usage is allowed in class. You may use laptops to take notes, but will have additional responsibilities to participate in class discussions. Failure to follow this policy will result in penalties.
+No cell phones, iPads, or similar mobile device usage is allowed in class. You may use laptops to take notes, but will have additional responsibilities to participate in class discussions. Failure to follow this policy will result in penalties.
 
 ## Course Objectives
 At the completion of this course, students will be able to:
