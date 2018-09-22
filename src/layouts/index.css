@@ -4,6 +4,7 @@
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+  font-size: 12pt;
 }
 
 .header-background {
@@ -42,6 +43,7 @@
   padding: 5px 20px;
   color: white;
   text-decoration: none;
+  font-size: 14pt;
 }
 
 .nav a:hover {
@@ -62,5 +64,6 @@ tr:first-child {
 }
 
 table {
-  width: auto
+  width: auto;
+  font-size: 12pt;
 }
