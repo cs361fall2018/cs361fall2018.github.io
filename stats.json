@@ -8,6 +8,10 @@
       "path----5a70ff74186e88a044b4.js",
       "path----5a70ff74186e88a044b4.js.map"
     ],
+    "path---resources-idea-testing": [
+      "path---resources-idea-testing-6f6ce0d952b4c7137d48.js",
+      "path---resources-idea-testing-6f6ce0d952b4c7137d48.js.map"
+    ],
     "path---positive-community": [
       "path---positive-community-c8eaa26ebc22fb49e84c.js",
       "path---positive-community-c8eaa26ebc22fb49e84c.js.map"
@@ -33,8 +37,8 @@
       "path---assignments-sprint-0-a4cdd5d2ec6899962b74.js.map"
     ],
     "path---syllabus": [
-      "path---syllabus-226c27f1e32e46756ac0.js",
-      "path---syllabus-226c27f1e32e46756ac0.js.map"
+      "path---syllabus-f10c702dda6801422514.js",
+      "path---syllabus-f10c702dda6801422514.js.map"
     ],
     "path---index": [
       "path---index-f867b7759bc64834769d.js",
@@ -49,8 +53,8 @@
       "commons-acccd8d5af62af8068df.js.map"
     ],
     "path---resources": [
-      "path---resources-d5d6b6d057592cfb4a4d.js",
-      "path---resources-d5d6b6d057592cfb4a4d.js.map"
+      "path---resources-c884635ccc8669a19d74.js",
+      "path---resources-c884635ccc8669a19d74.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -65,14 +69,14 @@
       "path---resources-idea-setup-11bfe2a245d8c19a64cb.js.map"
     ],
     "app": [
-      "app-5d261099d2292e5d4883.js",
+      "app-d7c5d6d7c55976f41f6d.js",
       "build-js-styles.css",
-      "app-5d261099d2292e5d4883.js.map",
+      "app-d7c5d6d7c55976f41f6d.js.map",
       "build-js-styles.css.map"
     ],
     "path---schedule": [
-      "path---schedule-272b7e4104656b672a6a.js",
-      "path---schedule-272b7e4104656b672a6a.js.map"
+      "path---schedule-895b360e875cceaa5435.js",
+      "path---schedule-895b360e875cceaa5435.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
