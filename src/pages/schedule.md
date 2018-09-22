@@ -19,4 +19,4 @@ Plese check this page weekly, as it is likely to change.
 | 8 | T & R: UML Diagrams                                |    |              |
 | 9 | T: SLDC <br> R: No class (Thankgiving)             |    | F: Sprint 4  | 
 | 10| T: Code Quality <br> R: TBA                        |    |              |
-| Finals week |                                          |    |              |
+| Finals week | Final: Monday, 12 PM (noon) in LINC 200  |    |              |
