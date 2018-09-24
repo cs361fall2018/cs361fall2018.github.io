@@ -14,7 +14,7 @@ Contact: [Email](mailto:brindesc@oregonstate.edu)
 ###Teaching assistants
 
 Ke-Jo Hsieh<br />
-Office Hours: Tuesday, 3-4 PM, Kelley Attrium<br />
+Office Hours: Thursday, 2-3 PM, Kelley Attrium<br />
 Contact: [Email](mailto:hsiehke@oregonstate.edu)
 
 Alexandria LeClerc<br />
