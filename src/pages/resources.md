@@ -17,3 +17,8 @@ title: "Resources"
 
 - [Git Book](https://git-scm.com/book/en/v2)
 - [GitHub Glossary](https://help.github.com/articles/github-glossary/)
+
+## In-class demos
+
+- [Git & GitHub](https://youtu.be/EQbUQFJHdzo)
+- TDD [video](https://youtu.be/3TXTVIUEu3I) and [code](https://github.com/cs361fall2018/tdd-demo)
