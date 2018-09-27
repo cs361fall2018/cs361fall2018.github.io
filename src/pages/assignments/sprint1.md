@@ -23,6 +23,10 @@ The 4 ships are:  Battleship (4), Cruiser (3) and Destroyer (2).
 Player's take turns guessing by calling out the coordinates. The opponent responds with "hit" or "miss" as appropriate.  Both players should mark their board with pegs:  red for hit, white for miss. For example, if you call out F6 and your opponent does not have any ship located at F6, your opponent would respond with "miss". You record the miss F6 by placing a white peg on the lower part of your board at F6. Your opponent records the miss by placing. When all of the squares that one your ships occupies have been hit, the ship will be sunk. You should announce "hit and sunk". In the physical game, a red peg is placed on the top edge of the vertical board to indicate a sunk ship. As soon as all of one player's ships have been sunk, the game ends.
 
 Your boss wants to know if it is possible to implement this game using the ninja framework.  You will have two weeks to implement this game. Since this is just a proof of concept, we will not be developing an extensive UI at this time.
+
+## Requirements
+
+The complete requirements document can be found [here.](/docs/battleship-requirements.pdf)
  
 To complete this assignment, each group needs to do the following:
 
