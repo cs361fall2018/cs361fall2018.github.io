@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---assignments": [
-      "path---assignments-186889f1b521ae4175f4.js",
-      "path---assignments-186889f1b521ae4175f4.js.map"
+      "path---assignments-0169e7a3b424eb0fba36.js",
+      "path---assignments-0169e7a3b424eb0fba36.js.map"
     ],
     "path---": [
       "path----5a70ff74186e88a044b4.js",
@@ -69,14 +69,18 @@
       "path---resources-idea-setup-11bfe2a245d8c19a64cb.js.map"
     ],
     "app": [
-      "app-d7c5d6d7c55976f41f6d.js",
+      "app-fd5c7aede83eab842f51.js",
       "build-js-styles.css",
-      "app-d7c5d6d7c55976f41f6d.js.map",
+      "app-fd5c7aede83eab842f51.js.map",
       "build-js-styles.css.map"
     ],
+    "path---assignments-sprint-1": [
+      "path---assignments-sprint-1-4ca3e8482f10b52bbec8.js",
+      "path---assignments-sprint-1-4ca3e8482f10b52bbec8.js.map"
+    ],
     "path---schedule": [
-      "path---schedule-182c00c8250337a6d30d.js",
-      "path---schedule-182c00c8250337a6d30d.js.map"
+      "path---schedule-8bd1f26df85fee552614.js",
+      "path---schedule-8bd1f26df85fee552614.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
