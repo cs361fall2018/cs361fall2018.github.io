@@ -14,9 +14,9 @@ The object of Battleship is to try and sink all of the other player's before the
 
 ## Starting a New Game
 
-Each player places the 4 ships somewhere on their board.  The ships can only be placed vertically or horizontally. Diagonal placement is not allowed. No part of a ship may hang off the edge of the board.  Ships may not overlap each other.  No ships may be placed on another ship. 
+Each player places the 3 ships somewhere on their board.  The ships can only be placed vertically or horizontally. Diagonal placement is not allowed. No part of a ship may hang off the edge of the board.  Ships may not overlap each other.  No ships may be placed on another ship. 
 Once the guessing begins, the players may not move the ships.
-The 4 ships are:  Battleship (4), Cruiser (3) and Destroyer (2).  
+The 3 ships are:  Battleship (4), Cruiser (3) and Destroyer (2).  
 
 ## Playing the Game
 
