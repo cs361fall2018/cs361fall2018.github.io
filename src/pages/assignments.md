@@ -8,7 +8,7 @@ This class is project based. The project will have 5 sprints, due every two week
 - [Sprint 0](/assignments/sprint0) - due Fri, Sep. 28th, 5PM
 - [Team formation](/assignments/teams) - due Fri, Setp 28th, 5PM
 - [Sprint 1](/assignments/sprint1) - due Fri, Oct 12th, 5PM
-- Sprint 2 - due Fri, Oct 26th, 5PM
+- [Sprint 2](/assignments/sprint2) - due Fri, Oct 26th, 5PM
 - Sprint 3 - due Fri, Nov 9th, 5PM
 - Sprint 4 - due Fri, Nov 23rd, 5Pm
 

@@ -13,7 +13,7 @@ Plese check this page weekly, as it is likely to change. All assignemnts are due
 | 2 | T: [Java & OO basics](/slides/4-java.pdf) <br> R: [OO Design](/slides/5-oo-design.pdf) & Interview with Christian Romming | [Java intro](https://www.cs.cornell.edu/courses/cs409/2000SP/Java/java-notes.html) <br /> [Java tutorial, sections 4 & 5](http://www.vogella.com/tutorials/JavaIntroduction/article.html#base-java-language-structure) <br /> [OO Primer](http://web.mit.edu/javadev/doc/tutorial/java/objects/index.html) <br /> [SOLID design principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod) | T: [Questions for Christian Romming](https://oregonstate.instructure.com/courses/1692915/assignments/7343715)|
 | 3 | T: [Software Testing](/slides/6-testing.pdf) <br> R: Code Review | [Testing](https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Testing) <br /> [Unit Tests](https://martinfowler.com/bliki/UnitTest.html)| F: [Sprint 1](/assignments/sprint1)  |
 | 4 | T: UI Design <br> R: Paper Prototypes              |    |              |
-| 5 | T: Code smells & Refactoring<br>R: Design patterns |    | F: Sprint 2  |
+| 5 | T: Code smells & Refactoring<br>R: Design patterns |    | F: [Sprint 2](/assignments/sprint2)  |
 | 6 | T: Design patterns 2 <br> R: Software architecture |    |              |
 | 7 | T: TBA <br> R: TBA                                 |    | F: Sprint 3  |
 | 8 | T & R: UML Diagrams                                |    |              |
