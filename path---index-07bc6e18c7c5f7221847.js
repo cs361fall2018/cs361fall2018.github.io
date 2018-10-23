@@ -1,2 +1,0 @@
-webpackJsonp([0x81b8806e4260],{326:function(t,e){t.exports={data:{markdownRemark:{html:"<p>Welcome to the class website for CS 361.</p>\n<p>While the website is currenty under construction, you're invited to look at the syllabus to see what we will cover in class.</p>",frontmatter:{path:"/",title:"CS 361"}}},pathContext:{}}}});
-//# sourceMappingURL=path---index-07bc6e18c7c5f7221847.js.map
