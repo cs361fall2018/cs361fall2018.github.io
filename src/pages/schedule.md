@@ -17,6 +17,6 @@ Plese check this page weekly, as it is likely to change. All assignemnts are due
 | 6 | T: UML <br> R: Design Patterns | [Class](http://agilemodeling.com/artifacts/classDiagram.htm) & [Sequence](http://agilemodeling.com/artifacts/sequenceDiagram.htm) Diagrams <br /> [Design Patterns](https://sourcemaking.com/design_patterns) |              |
 | 7 | T: Design Fest <br> R: TBA                                 |    | F: [Sprint 3](/assignments/sprint3)  |
 | 8 | T: Design Patterns 2 <br> R: Software Architecture |    |              |
-| 9 | T: SLDC <br> R: No class (Thankgiving)             |    | F: Sprint 4  | 
-| 10| T: Code Quality <br> R: TBA                        |    |              |
+| 9 | T: SLDC <br> R: No class (Thankgiving)             |    |  | 
+| 10| T: Code Quality <br> R: TBA                        |    | F: Sprint 4 |
 | Finals week | Final: Monday, 12 PM (noon) in LINC 200  |    |              |
