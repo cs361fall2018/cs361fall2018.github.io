@@ -1,12 +1,16 @@
 {
   "assetsByChunkName": {
+    "path---assignments-sprint-3": [
+      "path---assignments-sprint-3-0924989120ae2844f97c.js",
+      "path---assignments-sprint-3-0924989120ae2844f97c.js.map"
+    ],
     "path---assignments-sprint-2": [
       "path---assignments-sprint-2-a08909e7c0634f8bd58d.js",
       "path---assignments-sprint-2-a08909e7c0634f8bd58d.js.map"
     ],
     "path---assignments": [
-      "path---assignments-170bfa47b824d9e1d453.js",
-      "path---assignments-170bfa47b824d9e1d453.js.map"
+      "path---assignments-9cf4595a65724f5466c0.js",
+      "path---assignments-9cf4595a65724f5466c0.js.map"
     ],
     "path---": [
       "path----5a70ff74186e88a044b4.js",
@@ -73,9 +77,9 @@
       "path---resources-idea-setup-11bfe2a245d8c19a64cb.js.map"
     ],
     "app": [
-      "app-11293865caf8b9184ddc.js",
+      "app-578842970e2c70d91c63.js",
       "build-js-styles.css",
-      "app-11293865caf8b9184ddc.js.map",
+      "app-578842970e2c70d91c63.js.map",
       "build-js-styles.css.map"
     ],
     "path---assignments-sprint-1": [
@@ -83,8 +87,8 @@
       "path---assignments-sprint-1-b7c04c909ff851b9c9e8.js.map"
     ],
     "path---schedule": [
-      "path---schedule-f691eba936139cf637d8.js",
-      "path---schedule-f691eba936139cf637d8.js.map"
+      "path---schedule-2d8d0bf9f17169ef364c.js",
+      "path---schedule-2d8d0bf9f17169ef364c.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
