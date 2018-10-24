@@ -56,6 +56,8 @@ Your user stories will be evaluated on whether they follow [INVEST](https://xp12
 
 7. Implement the new features. Using the user stories as a guide, along with the newly refactored Object-Oriented code, implement the new features. Use the GitHub Issue Tracker, the issues you created, Pull Requests, and any other techniques provided in previous sprints, to manage your work and track your progress. Each team member needs to implement at least on issue.
 
+8. All features must be thorughly tested, with the tests included in the same PR as the code they test. At the end of the sprint, the `models` package must have at least 80% test coverage (at the line level. You don't need to test the front-end code.
+
 8. When merging the pull requests it is import to make sure that all the Travis CI tests pass. You cannot merge a PR if the checks fail. Also, if the CI on the master branch fails for any reason, fixing that failure becomes the first priority for your team.
 
 9. Tweek the UI to correctly show the new features. You will need to make changes to the user interface, in order for the user to easily use (and understand) the new features of the game.
