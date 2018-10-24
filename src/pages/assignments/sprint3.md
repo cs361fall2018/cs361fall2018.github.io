@@ -31,7 +31,7 @@ This assignment will help you learn the following:
 - Refactoring existing code to accommodate required code changes
 - Divide tasks among team members
 - Use GitHub Issue Tracking, Pull Requests, and Branches correctly
-
+- Using Continuous Integration (CI) to detect failed tests and build.
 
 # Tasks
 
@@ -50,14 +50,16 @@ Your user stories will be evaluated on whether they follow [INVEST](https://xp12
 
 4. Create a new milestone, called `Sprint 3`, with the deadline being the assignment due date. As a team, decide on what you are going to implement this sprint, by adding the milestone to each relevant issue.
 
-5. Resolve the feature backlog. If your team was not able to implement all of the features in Sprint 2, or you haven't added all of the [Battleship rules](/docs/battleship-requirements.pdf) into the code, now is the time to bring your game up to speed. This implementation process should still be organized into tasks and documented in the GitHub Issue Tracker, as well as adhering to the GitHub Flow.
+5. Resolve the feature backlog. If your team was not able to implement all of the features in Sprint 2, or you haven't added all of the [Battleship rules](/docs/battleship-requirements.pdf) into the code, now is the time to bring your game up to speed. Also, if your master branch does not pass the CI tests, now it's time to fix it. This implementation process should still be organized into tasks and documented in the GitHub Issue Tracker, as well as adhering to the GitHub Flow.
 
 6. Refactor to Object-Oriented Design. Using code smells, identify places in your code that require refactoring. Using OO principles such as Inheritance, Polymorphism a-d Encapsulation, refactor the Battlehip codebase (including the new features, if applicable), making sure your design respects the SOLID design principles. Be careful with your design, since the next sprint will include several new features that rely upon having a good OO foundation to build upon.
 
 7. Implement the new features. Using the user stories as a guide, along with the newly refactored Object-Oriented code, implement the new features. Use the GitHub Issue Tracker, the issues you created, Pull Requests, and any other techniques provided in previous sprints, to manage your work and track your progress. Each team member needs to implement at least on issue.
 
-8. Tweek the UI to correctly show the new features. You will need to make changes to the user interface, in order for the user to easily use (and understand) the new features of the game.
+8. When merging the pull requests it is import to make sure that all the Travis CI tests pass. You cannot merge a PR if the checks fail. Also, if the CI on the master branch fails for any reason, fixing that failure becomes the first priority for your team.
 
-9. Tag the final version with `sprint-3`. Don’t forget to push the tags to GitHub, with `git push --tags`. **This is the version we will grade!**
+9. Tweek the UI to correctly show the new features. You will need to make changes to the user interface, in order for the user to easily use (and understand) the new features of the game.
 
-10. (Optional) Complete [this survey](https://goo.gl/forms/jzvDOPanWHOMLjBq1) to give feedback regarding your team member's contribution to the sprint. Complete one survey for each team member you would like to give feedback for.
+10. Tag the final version with `sprint-3`. Don’t forget to push the tags to GitHub, with `git push --tags`. **This is the version we will grade!**
+
+11. (Optional) Complete [this survey](https://goo.gl/forms/jzvDOPanWHOMLjBq1) to give feedback regarding your team member's contribution to the sprint. Complete one survey for each team member you would like to give feedback for.
