@@ -18,5 +18,5 @@ Plese check this page weekly, as it is likely to change. All assignemnts are due
 | 7 | T: [Design Fest](https://oregonstate.instructure.com/courses/1692915/assignments/7343719) <br> R: Sprin 3 Workshop |    | F: [Sprint 3](/assignments/sprint3)  |
 | 8 | T: Design Patterns 2 <br> R: Software Architecture |    |              |
 | 9 | T: SLDC <br> R: No class (Thankgiving)             |    |  | 
-| 10| T: Code Quality <br> R: TBA                        |    | F: Sprint 4 |
+| 10| T: Code Quality <br> R: TBA                        |    | F: [Sprint 4](/assignments/sprint4) |
 | Finals week | Final: Monday, 12 PM (noon) in LINC 200  |    |              |
