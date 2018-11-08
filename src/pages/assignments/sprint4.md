@@ -3,7 +3,7 @@ path: "/assignments/sprint4"
 title: "Sprint 4"
 ---
 
-**DUE DATE: Friday, November 9, 5 PM**
+**DUE DATE: Friday, November 30, 5 PM**
 
 # Introduction
 
