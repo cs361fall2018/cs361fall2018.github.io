@@ -16,7 +16,7 @@ Plese check this page weekly, as it is likely to change. All assignemnts are due
 | 5 | T: [Code smells & Refactorings](/slides/10-code-smells-refactorings.pdf) <br> R: [CRC Cards](/slides/11-crc.pdf) & Interview with Mihai Codoban | [Refactorings](https://refactoring.guru/refactoring/catalog) <br /> [CRC Cards](http://agilemodeling.com/artifacts/crcModel.htm)   | W: [Questions for Mihai Codoban](https://oregonstate.instructure.com/courses/1692915/assignments/7343716) <br /> F: [Sprint 2](/assignments/sprint2)  |
 | 6 | T: [UML](/slides/12-uml.pdf) <br> R: [Design Patterns](/slides/13-design-patterns.pdf) | [Class](http://agilemodeling.com/artifacts/classDiagram.htm) & [Sequence](http://agilemodeling.com/artifacts/sequenceDiagram.htm) Diagrams <br /> [Design Patterns](https://sourcemaking.com/design_patterns) |              |
 | 7 | T: [Design Fest](https://oregonstate.instructure.com/courses/1692915/assignments/7343719) <br> R: Sprint 3 Workshop |    | F: [Sprint 3](/assignments/sprint3)  |
-| 8 | T: Design Patterns 2 <br> R: Software Architecture |    |              |
+| 8 | T: Design Patterns 2 <br> R: Software Architecture | [State,](https://sourcemaking.com/design_patterns/state) [Command,](https://sourcemaking.com/design_patterns/command) [Chain of Responsability](https://sourcemaking.com/design_patterns/chain_of_responsibility) and [Visitor](https://sourcemaking.com/design_patterns/visitor) patterns |              |
 | 9 | T: SLDC <br> R: No class (Thankgiving)             |    |  | 
 | 10| T: Code Quality <br> R: TBA                        |    | F: [Sprint 4](/assignments/sprint4) |
 | Finals week | Final: Monday, 12 PM (noon) in LINC 200  |    |              |
