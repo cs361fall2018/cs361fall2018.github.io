@@ -15,6 +15,8 @@ Now that the refactoring of the underlying architecture is complete (Sprint 3), 
 
 ![](/images/submarine.png)
 
+The submarine's captains quarters is indicated in red, and it is armored.
+
 - A new type of weapon is introduced: “the space laser.” It is fired from a network of geostationary satellites, and unlike the conventional bombs that we have until now, they penetrate the water, being able to hit both a surface ship, and a sub that is placed below it at the same time (i.e. in contrast the bomb can only hit the surface). The player receives the activation codes for the space laser only after sinking the first enemy ship (i.e. this weapon is an upgrade, and replaces the conventional bomb in the player’s arsenal). In the future we might add new types of weapons.
 - A player can now move his fleet. When the command to move is given, each ship will move one position. The player can specify the direction of the move (N, S, E, W). North is towards the top of the board (like a map). If a ship is already at the edge, it will not move (i.e. ships cannot "fall" over the egde). Ships cannot overlap during the move. The player can only move their fleet twice, after successfully sinking two enemy ships. This move will not be reflected on the opponents display (The hits don't move once the opponent moves the fleet).
 
