@@ -20,6 +20,10 @@
       "path---resources-idea-testing-6f6ce0d952b4c7137d48.js",
       "path---resources-idea-testing-6f6ce0d952b4c7137d48.js.map"
     ],
+    "path---resources-final-exam-guide": [
+      "path---resources-final-exam-guide-c3d25abbbc0f293ddaa8.js",
+      "path---resources-final-exam-guide-c3d25abbbc0f293ddaa8.js.map"
+    ],
     "path---positive-community": [
       "path---positive-community-c8eaa26ebc22fb49e84c.js",
       "path---positive-community-c8eaa26ebc22fb49e84c.js.map"
@@ -65,8 +69,8 @@
       "commons-acccd8d5af62af8068df.js.map"
     ],
     "path---resources": [
-      "path---resources-b5314a74b4131527450e.js",
-      "path---resources-b5314a74b4131527450e.js.map"
+      "path---resources-0e67b90709169c230193.js",
+      "path---resources-0e67b90709169c230193.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -81,9 +85,9 @@
       "path---resources-idea-setup-11bfe2a245d8c19a64cb.js.map"
     ],
     "app": [
-      "app-aad695a864d8c655872a.js",
+      "app-b4a8587e18bebf54dc01.js",
       "build-js-styles.css",
-      "app-aad695a864d8c655872a.js.map",
+      "app-b4a8587e18bebf54dc01.js.map",
       "build-js-styles.css.map"
     ],
     "path---assignments-sprint-1": [
