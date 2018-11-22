@@ -22,3 +22,7 @@ title: "Resources"
 
 - [Git & GitHub](https://youtu.be/EQbUQFJHdzo)
 - TDD [video](https://youtu.be/3TXTVIUEu3I) and [code](https://github.com/cs361fall2018/tdd-demo)
+
+## Final exam
+
+- [Final Exam Study Guide](/resources/final-exam-guide) 
