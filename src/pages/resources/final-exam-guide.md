@@ -43,3 +43,9 @@ The final exam will cover all the material that was covered in class, and the sp
     - Know the different processes that are used to manage software projects
     - Know the pros and cons for each of them
     - Select a process, based on a set of constraints.
+11. Project Management
+    - Know different techniques for project management (WBS, Gantt Chart, etc)
+    - Know the role estimates play in project management
+    - Know how to evaluate a risk
+12. Software Quality
+    - Know the different metrics used to measure the quality of a product
