@@ -18,5 +18,5 @@ Plese check this page weekly, as it is likely to change. All assignemnts are due
 | 7 | T: [Design Fest](https://oregonstate.instructure.com/courses/1692915/assignments/7343719) <br> R: Sprint 3 Workshop |    | F: [Sprint 3](/assignments/sprint3)  |
 | 8 | T: [Design Patterns 2](/slides/14-design-patterns-2.pdf) <br> R: [Software Architecture](/slides/15-architecture.pdf) | [State,](https://sourcemaking.com/design_patterns/state) [Command,](https://sourcemaking.com/design_patterns/command) [Chain of Responsability](https://sourcemaking.com/design_patterns/chain_of_responsibility) and [Visitor](https://sourcemaking.com/design_patterns/visitor) patterns |              |
 | 9 | T: [SLDC](/slides/16-sldc.pdf) <br> R: No class (Thankgiving)             | [SLDC](https://www.tutorialspoint.com/sdlc/index.htm) |  | 
-| 10| T: Project Management <br> R: Code Quality | | F: [Sprint 4](/assignments/sprint4) |
+| 10| T: [Project Management](/slides/17-project-management.pdf) <br> R: [Code Quality](/slides/18-quality.pdf) | | T @ 11:59PM: [Questions for E. Dunham](https://oregonstate.instructure.com/courses/1692915/assignments/7343717) F: [Sprint 4](/assignments/sprint4) |
 | Finals week | Final: Monday, 12 PM (noon) in LINC 200  |    |              |
