@@ -5,6 +5,8 @@ title: "Final Exam Study Guide"
 
 The final exam will cover all the material that was covered in class, and the sprints. This includes material that was presented in class, *as well as all the readings.*
 
+To view the types of questions that you can expect for the exam, scroll to the end.
+
 1. Java
     - Know the [basics](http://web.mit.edu/javadev/doc/tutorial/java/objects/index.html) of Object Oriented Programming
     - Know the [fundamentals](https://www.cs.cornell.edu/courses/cs409/2000SP/Java/java-notes.html) of the Java language
@@ -49,3 +51,13 @@ The final exam will cover all the material that was covered in class, and the sp
     - Know how to evaluate a risk
 12. Software Quality
     - Know the different metrics used to measure the quality of a product
+
+# Question types
+
+There will be a design question. Starting from a short description (similar to the Design Fest activity in class, but smaller), you will need to design a system. This includes writing user stories (following the 3C format), CRC Cards and UML diagrams (Class and Sequence)
+
+There we be some OO design questions. You would have to evaluate a small snippet of code (~20 lines) to see if it violates any of the SOLID principles. If it does, you will need to provide a refactoring of the code, to remove the violation.
+
+There will be questions about testing. You will have to choose a testing techinque (blackbox or whitebox), and write a few (4-5) test cases. You also need to know different types of coverage, and how to write code to achieve a certain coverage (e.g. achieve 100% line coverage for a method).
+
+Finally, there will be an short questions that will cover the rest of the material. The answers for these questions will be 1-2 sentences at most. 
